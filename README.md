@@ -24,12 +24,12 @@ When I'm not working with data, I enjoy cooking, hiking and hanging out with fri
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Building a Power BI project from End To End]  
+- **Project A:** Building a Power BI project from End To End  
 - **Content Creation:** [Making a video each day for my TikTok and Facebook]
 
 ## 🌱 Currently Learning 
 
-- [Power BI Data Analyst (PL - 300 exam) certificate]
+- Power BI Data Analyst (PL - 300 exam) certificate
 
 ## 🛠️ Technical Skillset
 
