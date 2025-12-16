@@ -8,14 +8,14 @@
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/(https://www.linkedin.com/in/kyduyen26/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
+  <a href="https://linkedin.com/in/kyduyen26/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:thikyduyen.le26@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
 ## 🚀 About Me 
-I'm a data analyst passionate about helping businesses make sense of their data. I enjoy transforming complex, messy datasets into clear stories and actionable insights.
+I'm a data analyst specializing in transforming complex datasets into clear, impactful visual narratives to drive business strategy.
 
-My focus is on building dashboards that get used, automating repetitive tasks to free up teams for more interesting problems, and creating models that help businesses plan for the future.
+I enjoy building interactive dashboards using Power BI, Excel and Tableau for real-time insight delivery. Proven ability to clean, analyze, and visualize data (SQL, Excel, Looker Studio) to identify critical trends, optimize performance, and support strategic decision-making.
 
 When I'm not working with data, I enjoy cooking, hiking and hanging out with friends. I love the "aha!" moment when data reveals something new and useful.
 
@@ -24,8 +24,7 @@ When I'm not working with data, I enjoy cooking, hiking and hanging out with fri
       
 ## 🔭 What I'm Currently Working On 
 
-- **Project A:** [Brief, one-line description of a project, e.g., Building a sales forecasting model in Python.]  
-- **Project B:** [Brief, one-line description of another project, e.g., Creating an interactive marketing dashboard in Power BI.]
+- **Project A:** [Building a Power BI project from End To End]  
 - **Content Creation:** [Making a video each day for my TikTok and Facebook]
 
 ## 🌱 Currently Learning 
