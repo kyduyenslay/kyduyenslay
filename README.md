@@ -17,7 +17,7 @@ I'm a data analyst specializing in transforming complex datasets into clear, imp
 
 I enjoy building interactive dashboards using Power BI, Excel and Tableau for real-time insight delivery. Proven ability to clean, analyze, and visualize data (SQL, Excel, Looker Studio) to identify critical trends, optimize performance, and support strategic decision-making.
 
-When I'm not working with data, I enjoy cooking, hiking and hanging out with friends. I love the "aha!" moment when data reveals something new and useful.
+When I'm not working with data, I enjoy cooking, hiking and hanging out with friends. 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
 ### [🏆 Check Out My Full Portfolio Website](https://www.datascienceportfol.io/thikyduyenle26)
