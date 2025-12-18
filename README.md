@@ -20,7 +20,6 @@ I enjoy building interactive dashboards using Power BI, Excel and Tableau for re
 When I'm not working with data, I enjoy cooking, hiking and hanging out with friends. 
 
 <!-- 🌐 Replace "your-username" with your actual GitHub username -->
-### [🏆 Check Out My Full Portfolio Website](https://www.datascienceportfol.io/thikyduyenle26)
       
 ## 🔭 What I'm Currently Working On 
 
